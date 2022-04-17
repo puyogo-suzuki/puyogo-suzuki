@@ -1,10 +1,10 @@
 Name : Go Suzuki  
 Born : December 2000  
-Affiliation : 
- - (2016-2020) Matsue College of Technology, Department of Information Enginnering.  
+Affiliation :  
+ - (2016-2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  
  - (2021-) Tokyo Institute of Technology, Department of Computer Science.  
 
-Works :  
+Works(only available on GitHub(excluding projects on BitBucket)) :  
  - KOSEN Programming Contest (2016 - 2020)
    - 2016
      - [procon2016 repository](https://github.com/mct-procon/procon2016)
