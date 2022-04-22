@@ -4,6 +4,16 @@ Affiliation :
  - (2016-2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  
  - (2021-) Tokyo Institute of Technology, Department of Computer Science.  
 
+ - (2015 - 2021) Information Processing Society of Japan, Junior Membership
+ - (2022 - ) Information Processing Society of Japan, Student Membership
+
+Interests (not good at.): 
+  - <primary> Computer Architecture(FPGA, SIMD, MIMD, Cache, I/O, Network on Chip, Domain Specific Architecture)
+  - Game AI(Puyo Pop, Tetris, etc...)
+  - Numerical Analysis(Stencil Computation, High-Performance Computing)
+  - Operating System and System Programming(library OS and exokernel, Hypervisor, Multithreading, Process(Team) Scheduler, Green threads and Fiber, I/O subsystem)
+  - <primary> Programming Language(Functional Programming, Reactive Programming(Reactive Extensions(System.Reactive)), Verification, Domain Specific Language, HPC)
+
 Works(only available on GitHub(excluding projects on BitBucket)) :  
  - KOSEN Programming Contest (2016 - 2020)
    - 2016
