@@ -2,7 +2,7 @@ Web site is [here](https://puyogo-suzuki.github.io).
 
 Name : Go Suzuki  
 Born : December 2000  
-Affiliation :  
+Education :  
  - (2016-2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  
  - (2021-) Tokyo Institute of Technology, Department of Computer Science.  
 
@@ -10,11 +10,11 @@ Affiliation :
  - (2022 - ) Information Processing Society of Japan, Student Membership
 
 Interests (not good at.): 
-  - <primary> Computer Architecture(FPGA, SIMD, MIMD, Cache, I/O, Network on Chip, Domain Specific Architecture)
+  - Computer Architecture(FPGA, SIMD, MIMD, Cache, I/O, Network on Chip, Domain Specific Architecture)
   - Game AI(Puyo Pop, Tetris, etc...)
-  - Numerical Analysis(Stencil Computation, High-Performance Computing)
+  - High-Performance Computing(Numerical Analysis(Stencil Computation))
   - Operating System and System Programming(library OS and exokernel, Hypervisor, Multithreading, Process(Team) Scheduler, Green threads and Fiber, I/O subsystem)
-  - <primary> Programming Language(Functional Programming, Reactive Programming(Reactive Extensions(System.Reactive)), Verification, Domain Specific Language, HPC)
+  - Programming Language(Functional Programming, Reactive Programming(Reactive Extensions(System.Reactive)), Verification, Domain Specific Language, HPC)
 
 Works(only available on GitHub(excluding projects on BitBucket)) :  
  - KOSEN Programming Contest (2016 - 2020)
@@ -39,3 +39,4 @@ Works(only available on GitHub(excluding projects on BitBucket)) :
      - [procon2020-protocol](https://github.com/mct-procon/procon2020-protocol)
      - [procon2020-AI-A](https://github.com/mct-procon/procon2019-AI-A)
  - SecHack 365 (2019)
+ - ICFP 2022 Student Research Competition (2022)
