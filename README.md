@@ -8,6 +8,7 @@ Education :
 
  - (2015 - 2021) Information Processing Society of Japan, Junior Membership
  - (2022 - ) Information Processing Society of Japan, Student Membership
+ - (2022 - ) Association for Computing Machinery, Student Membership
 
 Interests (not good at.): 
   - Computer Architecture(FPGA, SIMD, MIMD, Cache, I/O, Network on Chip, Domain Specific Architecture)
@@ -16,7 +17,7 @@ Interests (not good at.):
   - Operating System and System Programming(library OS and exokernel, Hypervisor, Multithreading, Process(Team) Scheduler, Green threads and Fiber, I/O subsystem)
   - Programming Language(Functional Programming, Reactive Programming(Reactive Extensions(System.Reactive)), Verification, Domain Specific Language, HPC)
 
-Works(only available on GitHub(excluding projects on BitBucket)) :  
+Works(available on GitHub(excluding projects on BitBucket) publicly) :  
  - KOSEN Programming Contest (2016 - 2020)
    - 2016
      - [procon2016 repository](https://github.com/mct-procon/procon2016)
@@ -38,5 +39,3 @@ Works(only available on GitHub(excluding projects on BitBucket)) :
      - [procon2020-Interface](https://github.com/mct-procon/procon2020-Interface)
      - [procon2020-protocol](https://github.com/mct-procon/procon2020-protocol)
      - [procon2020-AI-A](https://github.com/mct-procon/procon2019-AI-A)
- - SecHack 365 (2019)
- - ICFP 2022 Student Research Competition (2022)
