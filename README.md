@@ -1,5 +1,7 @@
 Web site is [here](https://puyogo-suzuki.github.io).
 
+**大学院進学をする予定なので，転職・就職のお便りはお断りしております．**
+
 Name : Go Suzuki  
 Born : December 2000  
 Education :  
