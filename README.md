@@ -5,20 +5,22 @@ Web site is [here](https://puyogo-suzuki.github.io).
 Name : Go Suzuki  
 Born : December 2000  
 Education :  
- - (2016 - 2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  
- - (2021 - 2022) Tokyo Institute of Technology, Department of Computer Science.  
- - (2023 - )
+ - (2016 - 2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  (associate degree)
+ - (2021 - ) Tokyo Institute of Technology, Department of Computer Science.   
+    - 2021 - 2022 Undergraduate, bachelor
+    - 2023 - Graduate, master cource
+
 
  - (2015 - 2021) Information Processing Society of Japan, Junior Membership
  - (2022 - ) Information Processing Society of Japan, Student Membership
  - (2022 - ) Association for Computing Machinery, Student Membership
 
 Interests (not good at.): 
-  - Computer Architecture(FPGA, SIMD, MIMD, Cache, I/O, Network on Chip, Domain Specific Architecture)
-  - Game AI(Puyo Pop, Tetris, etc...)
-  - High-Performance Computing(Numerical Analysis(Stencil Computation))
-  - Operating System and System Programming(library OS and exokernel, Hypervisor, Multithreading, Process(Team) Scheduler, Green threads and Fiber, I/O subsystem)
-  - Programming Language(Functional Programming, Reactive Programming(Reactive Extensions(System.Reactive)), Verification, Domain Specific Language, HPC)
+  - Computer Architecture (FPGA, SIMD, MIMD without cache coherency, Network on Chip, Domain Specific Architecture)
+  - Game AI (Puyo Pop, Tetris, etc...)
+  - High-Performance Computing (Numerical Analysis (Stencil Computation))
+  - Operating System (library OS and exokernel, Hypervisor, Multithreading, Process (Team) Scheduler, Green threads and Fiber, I/O subsystem)
+  - Programming Language(Functional, Reactive, Verification, Domain Specific)
 
 Works(available on GitHub(excluding projects on BitBucket) publicly) :  
  - KOSEN Programming Contest (2016 - 2020)
@@ -41,4 +43,10 @@ Works(available on GitHub(excluding projects on BitBucket) publicly) :
    - 2020
      - [procon2020-Interface](https://github.com/mct-procon/procon2020-Interface)
      - [procon2020-protocol](https://github.com/mct-procon/procon2020-protocol)
-     - [procon2020-AI-A](https://github.com/mct-procon/procon2019-AI-A)
+     - [procon2020-AI-A](https://github.com/mct-procon/procon2020-AI-A)
+ - Formura Project (Associative Degree)
+   - 2020 -
+     - NOT PUBLISHED YET.
+ - [PSG-Titech](https://github.com/psg-titech) (Undergraduate -)
+   - 2022
+     - [Emfrp-REPL](https://github.com/psg-titech/emfrp-repl)
