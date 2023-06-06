@@ -1,18 +1,19 @@
 Web site is [here](https://puyogo-suzuki.github.io).
 
-**大学院進学をする予定なので，転職・就職のお便りはお断りしております．**
+**転職・就職のお便りはお断りしております．**
 
 Name : Go Suzuki  
 Born : December 2000  
 Education :  
  - (2016 - 2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  (associate degree)
  - (2021 - ) Tokyo Institute of Technology, Department of Computer Science.   
-    - 2021 - 2022 Undergraduate, bachelor
-    - 2023 - Graduate, master cource
+    - (2021 - 2022) Undergraduate, bachelor
+    - (2023 -) Graduate, master cource
 
 
- - (2015 - 2021) Information Processing Society of Japan, Junior Membership
- - (2022 - ) Information Processing Society of Japan, Student Membership
+ - (2015 - ) Information Processing Society of Japan
+    - (2015 - 2021) Junior Membership
+    - (2022 - ) Student Membership
  - (2022 - ) Association for Computing Machinery, Student Membership
 
 Interests (not good at.): 
