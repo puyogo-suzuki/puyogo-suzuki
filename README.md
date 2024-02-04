@@ -6,7 +6,7 @@ Name : Go Suzuki
 Born : December 2000  
 Education :  
  - (2016 - 2020) National Institute of Technology, Matsue College, Department of Information Enginnering.  (associate degree)
- - (2021 - ) Tokyo Institute of Technology, Department of Computer Science.   
+ - (2021 - ) Institute of Science Tokyo, Department of Computer Science. (formerly: Tokyo Institute of Technology (- 2024/8))  
     - (2021 - 2022) Undergraduate, bachelor
     - (2023 -) Graduate, master cource
 
