@@ -20,8 +20,8 @@ Interests (not good at.):
   - Computer Architecture (FPGA, SIMD, MIMD without cache coherency, Network on Chip, Domain Specific Architecture)
   - Game AI (Puyo Pop, Tetris, etc...)
   - High-Performance Computing (Numerical Analysis (Stencil Computation))
-  - Operating System (library OS and exokernel, Hypervisor, Multithreading, Process (Team) Scheduler, Green threads and Fiber, I/O subsystem)
-  - Programming Language(Functional, Reactive, Verification, Domain Specific)
+  - Operating System (library OS and exokernel, Hypervisor, Multithreading, Process (Team) Scheduler, Green threads and Fiber, I/O subsystem, Memory Management)
+  - Programming Language and Implementation Techniques (Objective, Functional, Reactive, Verification, Domain Specific, Garbage Collection, Dynamic Compiler, Compiler Optimizations)
 
 Works(available on GitHub(excluding projects on BitBucket) publicly) :  
  - KOSEN Programming Contest (2016 - 2020)
